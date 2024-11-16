@@ -1,7 +1,5 @@
 # neverdies-for-everyone
-funny shoreline paste
-
-from their github repo
+funny shoreline paste. from their github repo
 
 ### Credits
 - [Rom](https://github.com/Romdotpng) - Removing hwid system, Leaks
