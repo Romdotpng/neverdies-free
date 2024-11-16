@@ -1,9 +1,10 @@
 # neverdies-for-everyone
+funny shoreline paste
+
 from their github repo
 
 ### Credits
 - [Rom](https://github.com/Romdotpng) - Removing hwid system, Leaks
-- [Chronos](https://github.com/ChronosMain) - skidding shoreline
-- [Mortex8](https://github.com/Mortex8) - skidding shoreline
+- Chronos, Mortex8, LachCrafter - Creating this cheat
 
 if you have any problems, contact hlu_nsc on discord
